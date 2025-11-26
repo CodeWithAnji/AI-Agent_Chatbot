@@ -2,6 +2,9 @@
 
 A modern full-stack **AI Agent Chatbot** built with **FastAPI (Python)** backend, **React + Tailwind CSS** frontend, and **LangGraph + LLMs** (OpenAI / Groq / Tavily) to enable intelligent conversation workflows.
 
+- ### Demo Preview
+ ![Home Page](https://github.com/CodeWithAnji/AI-Agent_Chatbot/blob/008ef5b7a6da8341cbf59f7f8b20b6cc6b062fb4/screenshot.png)
+ 
 ## Features
 - 🌐 Full-stack AI chatbot with modern UI
 - 🔄 LangGraph StateGraph workflow implementation
