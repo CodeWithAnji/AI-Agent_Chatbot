@@ -4,7 +4,7 @@ A modern full-stack **AI Agent Chatbot** built with **FastAPI (Python)** backend
 
 - ### Demo Preview
 <p align="center">
-  <img src="https://github.com/CodeWithAnji/AI-Agent_Chatbot/blob/008ef5b7a6da8341cbf59f7f8b20b6cc6b062fb4/screenshot.png" width="800" />
+  <img src="https://github.com/CodeWithAnji/AI-Agent_Chatbot/blob/008ef5b7a6da8341cbf59f7f8b20b6cc6b062fb4/screenshot.png" width="600" height="1000" />
 </p>
 
 ## Features
